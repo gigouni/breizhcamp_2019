@@ -11,7 +11,7 @@
 
 ## 1.1. Présentation
 
-- Par Stephane Bortzmeyer
+- Par Stéphane Bortzmeyer
 - "Internet et droits humains, il y a vraiment un rapport ?"
 
 ### 1.1.1. Petit rappel sur ce qu'est internet
@@ -24,7 +24,7 @@
 - Plusieurs formalisations des droits humains dont le plus connu "La déclaration universelle des droits de l'Homme"
 - Un idéal, pas une réalité
 - Rapport entre internet et le droit humains
-- Un outil est ( normalement ) neutre 
+- Un outil est ( normalement ) neutre
 - Le débat entre la neutralité de la technique est aussi ancien que la philosophie (_"L'arme ne commet pas le meurtre mais sans l'arme, le meurtre est plus difficile"_)
   
 ### 1.1.2. L'usage du numérique laisse des traces
@@ -34,7 +34,7 @@
 - Encourager le numérique, c'est encourager la traçabilité
 - Le traffic n'est pas chiffré par défaut sur internet. On peut chiffrer mais il faut une action explicite ( tout le monde ne le fait pas )
 - Beaucoup de concepts propres à internet favorise la collecte de données
-  - Le DHCP qui broadcaast à tout le réseau son arrivée et qui donne beaucoup d'informations
+  - Le DHCP qui broadcast à tout le réseau son arrivée et qui donne beaucoup d'informations
   - Quand on se donne numériquement rendez-vous, ça utilise le DNS et passe donc par plusieurs intermédiaires qui peuvent collecter des informations
 - Faut-il, par défaut, chiffrer toutes les communications ?
   - Certains géants des télécommunications refusent, cela ne leur permet plus de savoir ce que font leur client afin de leur proposer des services/contenus
