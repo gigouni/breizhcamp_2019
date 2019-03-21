@@ -32,10 +32,10 @@ Par Jérémie Ledentu ( @jledentu ) - développeur web à Energiency
 
 - Utilise les images du storybook comme images de références et va effectuer des tests de non régressions visuelles
 - `npm install --save-dev loki`
-- `npx init loki`
-- `npx init update`
-- `npx init test`
-- `npx init approve`
+- `npx loki init`
+- `npx loki update`
+- `npx loki test`
+- `npx loki approve`
 - Attention aux faux positifs, il faut jouer avec un seuil de tolérance
 - Attention aux performances, accélérer en changeant le `diffingEngine` ( `gm` pour GraphicsMagick )
 - Gérer les timeouts et l'asynchronisme avec `lokiAsync` ( pour les animations, pour les GIFs, etc... )
