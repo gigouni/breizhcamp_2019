@@ -1,13 +1,13 @@
 # 1. Git, yet another VCS ou bien plus que ça
 
-Par Loïc Guibert
+Par Loïc Guibert - Architecte logiciel à Eizhel SAS
 
 <!-- TOC -->
 
 - [1. Git, yet another VCS ou bien plus que ça](#1-git-yet-another-vcs-ou-bien-plus-que-ça)
   - [1.1. Dictionnaire](#11-dictionnaire)
   - [1.2. Les commandes classiques](#12-les-commandes-classiques)
-  - [1.3. Les commandes plus évoluées/complexes](#13-les-commandes-plus-évoluéescomplexes)
+  - [1.3. Les commandes plus évoluées / complexes](#13-les-commandes-plus-évoluées--complexes)
 
 <!-- /TOC -->
 
@@ -37,7 +37,7 @@ Par Loïc Guibert
 - `git push`
   - Pousse les changements __validés__ sur le serveur de versioning distant
 
-## 1.3. Les commandes plus évoluées/complexes
+## 1.3. Les commandes plus évoluées / complexes
 
 - `git fetch origin`
   - Permet de récupérer le statut des changements distants ( création de branches, etc... )
@@ -49,3 +49,5 @@ Par Loïc Guibert
 - `git rebase`
   - Équivalent proche du `git merge` mais pour avoir un historique linéaire ( utilisable et utile si les changements n'ont pas été poussés )
   - Permet de merger des commits précédents __mais non poussés__ ( `git rebase -i HEAD~4` va permettre de reprendre les 4 derniers commits non poussés pour en modifier l'histoire )
+
+[--> Retour au README](../README.md)

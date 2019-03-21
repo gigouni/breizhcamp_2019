@@ -19,8 +19,7 @@ Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 
 ## 1.1. Les mots de passe
 
-- Beaucoup de contraintes pour le rendre plus robuste
-- Beaucoup TROP de contraintes
+- "Je veux beaucoup ( TROP ) de contraintes pour rendre le mot de passe plus robuste"
 - Ne pas demander de taper deux fois le même mot de passe
 - Avoir un bouton pour afficher le mot de passe
 - Avoir un indicateur de robustesse ( des librairies existent )
@@ -28,12 +27,12 @@ Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 
 ## 1.2. Les captcha
 
-- Plus le captcha est compliqué plus je suis sûr que je ne suis pas un robot
+- "Plus le captcha est compliqué, plus je suis sûr que je ne suis pas un robot"
 - Utiliser plutôt un système anti-spam comme Akismet
 
 ## 1.3. La validation
 
-- J'aimerais savoir très vite si je me suis trompé dans mon champ
+- "J'aimerais savoir très vite si je me suis trompé dans mon champ"
 - Attendre d'avoir au moins fait une tentative dans le champ avant de lever une alarme
 - Supprimer l'erreur dès la reprise du focus sur le champ
 - Mettre un marqueur pour dire que le champ est valide
@@ -41,8 +40,8 @@ Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 
 ## 1.4. Liste de champs
 
-- Des formulaires trop longs pour afficher tous les champs à remplir, trop de scroll
-- Découper en plusieurs étapes pour rassurer l'utilisateur si la validation par étape de ses informations
+- Ne pas faire des formulaires trop longs pour afficher tous les champs à remplir, avec du scroll
+- Découper en plusieurs étapes pour rassurer l'utilisateur sur la validation par étape de ses informations
 - Éviter de faire plusieurs champs pour la même chose
 - Avoir un indicateur de progression si c'est un formulaire en plusieurs étapes pour ne pas perdre l'utilisateur
 - S'assurer que tous les champs soient nécessaires ( "Est-ce que cette information est vraiment utile ?" )
@@ -52,7 +51,7 @@ Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 - Trop de boutons tuent l'interface
 - Ne pas nommer le bouton "Envoyer" mais "Créer le compte"
 - Ne pas mettre de bouton "Reset" sur les formulaires, personne ne les utilise
-- Notifier que le bouton ait bien été appuyé ( griser le bouton mais ne pas surcharger l'interface ou ne pas laisser le bouton tel quel pour éviter le multi-requête )
+- Ne pas notifier que le bouton ait bien été appuyé ( griser le bouton mais ne pas surcharger l'interface ou ne pas laisser le bouton tel quel pour éviter le multi-requêtage )
 
 ## 1.6. Quoi d'autre
 
@@ -71,8 +70,10 @@ Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 
 ### 1.6.3. Divers
 
-- Formater correctement les données ( téléphone, CB, ... )
-- Optionnel pour les facultatifs plutôt que * pour les obligatoires ( pour éviter d'y voir une contrainte dans le formulaire )
-- Mettre les messages d'erreurs sous le champ associé, pas tout en dessous et avec une description précise du problème
-- Le placeholder n'a lieu que pour des indications, pas pour faire office de labels ou de valeur
-- Toujours faire l'usage de votre application pour en voir tous les problèmes
+- Formater correctement les données ( téléphone sur x caractères, code de carte bancaire par blocs de 4 chiffres, etc... )
+- Optionnel pour les facultatifs plutôt que * pour les obligatoires ( pour éviter d'y voir une contrainte dans le formulaire mais plutôt une opportunité )
+- Mettre les messages d'erreurs sous le champ associé et avec une description précise du problème, pas tout en dessous
+- Le placeholder n'a lieu que pour des indications ( "x caractères maximum" ), pas pour faire office de labels ou de valeur
+- Toujours faire l'usage de l'application pour en voir tous les problèmes
+
+[--> Retour au README](../README.md)

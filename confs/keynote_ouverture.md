@@ -14,7 +14,7 @@
 - Par Stéphane Bortzmeyer
 - "Internet et droits humains, il y a vraiment un rapport ?"
 
-### 1.1.1. Petit rappel sur ce qu'est internet
+### 1.1.1. Petits rappels
 
 - Interconnexion entre une multitude de réseaux
 - Pas de "patron" de l'internet
@@ -37,6 +37,8 @@
   - Le DHCP qui broadcast à tout le réseau son arrivée et qui donne beaucoup d'informations
   - Quand on se donne numériquement rendez-vous, ça utilise le DNS et passe donc par plusieurs intermédiaires qui peuvent collecter des informations
 - Faut-il, par défaut, chiffrer toutes les communications ?
-  - Certains géants des télécommunications refusent, cela ne leur permet plus de savoir ce que font leur client afin de leur proposer des services/contenus
-  - Lors du passage à HTTP2, le débat a été contre la mise en place du chiffrage par défaut de toutes les communications ( lobby ? )
+  - Certains géants des télécommunications refusent, cela ne leur permet plus de savoir ce que font leur client afin de leur proposer des services / contenus
+  - Lors du passage à HTTP2, le débat s'est achevé contre la mise en place du chiffrage par défaut de toutes les communications ( lobby ? )
 - Il est difficile de mettre d'accord sur un sujet commun des personnes venant d'horizons différents, avec des besoins et des envies différentes
+
+[--> Retour au README](../README.md)
