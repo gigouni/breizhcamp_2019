@@ -17,7 +17,7 @@ Par Mathieu Luz
 
 ## 1.1. Fight club / Les règles
 
-- Pas dfe code source extérieur
+- Pas de code source extérieur
 - Utiliser un maximum de nouvelles normes
 - Il faut que cela fonctionne sur au moins 2 navigateurs
 
