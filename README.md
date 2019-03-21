@@ -8,6 +8,7 @@ Liste de documents
 - ["Éviter les régressions visuelles"](./confs/regressions_visuelles.md)
 - ["Règles UX"](./confs/regles_ux.md)
 - ["Votre API passe-t-elle le contrôle technique ?"](./confs/api_controle_technique.md) par François-Guillaume RIBREAU de OuestFrance
+- ["Git, yet another VCS ou bien plus que ça ?"](./confs/git_vcs.md)
 
 Certaines fautes de frappe/orthographe sont présentes dans les documents. Ils ont été rédigés directement lors des conférences et n'ont pas tous été corrigés ou traduits en français (homogénéisation de la langue de lecture des documents). Si vous voyez des fautes, n'hésitez pas à faire une PR, je les ajouterai avec plaisir. ;)
 

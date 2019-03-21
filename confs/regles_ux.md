@@ -66,7 +66,7 @@ Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 ### 1.6.2. Le mobile
 
 - Utiliser le bon type pour les champs ( type number pour les champs attendant que des chiffres )
-- Un champ doit au moins faire 48px de haut ou de large à cause de la largeur des doigts 
+- Un champ doit au moins faire 48px de haut ou de large à cause de la largeur des doigts
 - Éviter les select lorsqu'il y a peu de champs ( privilégier les radio boxes )
 
 ### 1.6.3. Divers
