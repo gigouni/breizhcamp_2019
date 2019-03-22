@@ -64,4 +64,12 @@ Retrouvez la liste complète des commandes et des tutoriels sur la documentation
   - Permet de merger des commits précédents __mais non poussés__ ( `git rebase -i HEAD~4` va permettre de reprendre les 4 derniers commits non poussés pour en modifier l'histoire )
   - Lien vers la documentation : <https://git-scm.com/docs/git-rebase>
 
+- `git gui`
+  - Interface graphique intégrée pour la gestion des changements courants
+  - Lien vers la documentation : <https://git-scm.com/docs/git-gui>
+
+- `gitk`
+  - Interface graphique intégrée pour la visualisation de l'historique du projet ( branches, commits, détails de commits )
+  - Lien vers la documentation : <https://git-scm.com/docs/gitk>
+
 [--> Retour au README](../README.md)
