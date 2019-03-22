@@ -11,6 +11,8 @@ Liste de documents
 - ["Règles UX"](./confs/regles_ux.md) par Bruno Sabot de Zenika Bordeaux
 - ["Votre API passe-t-elle le contrôle technique ?"](./confs/api_controle_technique.md) par François-Guillaume RIBREAU de OuestFrance
 - ["Git, yet another VCS ou bien plus que ça ?"](./confs/git_vcs.md) par Loïc Guibert d'Eizhel
+- ["Boostez le chargement de vos images !"](./confs/boostez_chargement_images.md) par Jean-Michael Legait de CrossKnowledge
+- ["Comment... or not comment? That is the question."](./confs/comment_or_not_comment.md) par Pascal Le Merrer
 
 Certaines fautes de frappe/orthographe sont présentes dans les documents. Ils ont été rédigés directement lors des conférences et n'ont pas tous été corrigés ou traduits en français (homogénéisation de la langue de lecture des documents). Si vous voyez des fautes, n'hésitez pas à faire une PR, je les ajouterai avec plaisir. ;)
 
