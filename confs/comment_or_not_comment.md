@@ -18,8 +18,8 @@ Lien vers les slides : <https://github.com/PascalLeMerrer/comment-or-not-comment
 
 - Faciliter la lecture du code par le lecteur
 - "Code never lies, documentations sometimes does", Ron Jeffries
-- "Writing system software: code comment", Antirez, Redis CTO
-  - Antirez définit 6 types de commentaires utiles
+- "Writing system software: code comment", Salvatore Sanfilippo ( @antirez ), développeur chez Redis
+  - Salvatore Sanfilippo définit [6 types de commentaires utiles](#12-commentaires-utiles) et [3 inutiles](#13-les-commentaires-inutiles)
 
 ## 1.2. Commentaires utiles
 
@@ -27,7 +27,7 @@ Lien vers les slides : <https://github.com/PascalLeMerrer/comment-or-not-comment
   - Une majorité des personnes présentes commentent leurs fonctions
   - Le speaker considère que cela n'est pas toujours nécessaire, le nom de la fonction est la plupart du temps largement suffisant
 - __Commentaire de conception__
-  - Explique les solutions envisagées et celles retenues et pourquoi celles-là ont été retenues
+  - Explique les solutions envisagées et celles retenues et pourquoi
 - __Commentaire de raison__
   - Explique pourquoi cette fonction fait cela ( pas "comment ?" mais bien "pourquoi ?" )
 - __Commentaire d'enseignement__
@@ -36,7 +36,7 @@ Lien vers les slides : <https://github.com/PascalLeMerrer/comment-or-not-comment
     - Une minorité des personnes est d'accord
     - La majorité pense qu'un lien vers une doc suffit
 - __Commentaire de checklist__
-  - Prévient de prochain développeur des différentes étapes à suivre en cas de modifications sur la fonction courante
+  - Prévient le prochain développeur des différentes étapes à suivre en cas de modifications sur la fonction courante
     - Peut faire penser à un problème de conception si il est nécessaire de faire ce genre de choses
 - __Commentaire de guidage__
   - Chaque section du code est précédée par un petit commentaire pour expliquer ce qui va se passer
@@ -57,6 +57,6 @@ Lien vers les slides : <https://github.com/PascalLeMerrer/comment-or-not-comment
 ## 1.4. Conclusion
 
 - Les commentaires ne sont pas la chose importante, à retenir
-- L'important se situe sur la situation de communiquer avec son équipe
+- L'important se situe sur la façon de communiquer avec son équipe
 
 [--> Retour au README](../README.md)
