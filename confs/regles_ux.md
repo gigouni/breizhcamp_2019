@@ -2,9 +2,11 @@
 
 Par Bruno Sabot de Zenika Bordeaux (@brunosabot)
 
+Lien vers les slides de la conférence : <https://docs.google.com/presentation/d/1tCwdzIdwu8jYX4Y0dej_u6pmc1oUx9Y4NPUaTBSWluA/edit#slide=id.g46d6493331_0_81> ( vous avez également une version archivée dans le dossier `slides` si jamais le document en ligne n'est plus disponible )
+
 <!-- TOC -->
 
-- [1. Règles UX : les formulaires](#1-règles-ux--les-formulaires)
+- [1. Règles UX : les formulaires](#1-règles-ux-les-formulaires)
   - [1.1. Les mots de passe](#11-les-mots-de-passe)
   - [1.2. Les captcha](#12-les-captcha)
   - [1.3. La validation](#13-la-validation)
