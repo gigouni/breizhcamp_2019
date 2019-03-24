@@ -9,6 +9,8 @@
 
 <!-- /TOC -->
 
+Lien vers les slides : <https://www.bortzmeyer.org/internet-droits-humains-breizhcamp.html>
+
 ## 1.1. Présentation
 
 - Par Stéphane Bortzmeyer
